@@ -1,2 +1,4 @@
 # infografia
-This is an introductory project
+This is an introductory project.
+
+My name is Juan Salinas
